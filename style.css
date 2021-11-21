@@ -289,7 +289,7 @@ body {
 .flexx p{
   color: white;
   margin-top: 20px;
-  margin-left: 5px;
+  margin-left: 10px;
   font-family: fantasy;
 
 }
@@ -334,14 +334,9 @@ body {
   border: 2px rgb(0, 255, 34) solid;
   margin-top: 15px;
 }
-
-.triangle .triangle-sm{
-    height: 0px;
-    width: 0px;
-    border: 1px solid;
-    border-top: 15px solid transparent;
-    border-bottom: 15px solid  green;
-    border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    
+.flexx img{
+  margin-top: 17px;
+  margin-left: -27px;
+  background-color: rgb(24, 24, 24);
+border-radius: 50%;
 }
